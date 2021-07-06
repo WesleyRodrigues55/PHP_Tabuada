@@ -1,3 +1,3 @@
 # tabuadaPHP
 
-<h1>Tábuada feita com PHP e HTML, estrutura de repetição FOR(PARA)
+<h4>Tábuada feita com PHP e HTML, estrutura de repetição FOR(PARA)
